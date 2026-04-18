@@ -264,7 +264,7 @@ export default function MessagesPage() {
 
           {/* Chat header */}
           <div style={{
-            display: 'flex', alignItems: 'center', gap: 10,
+            display: 'flex', alignItems: 'center', gap: 10,marginBottom:50,
             padding: '12px 16px', borderBottom: '1px solid var(--border)',
             background: 'var(--card-bg)', flexShrink: 0,
           }}>
@@ -371,7 +371,7 @@ export default function MessagesPage() {
 
           {/* Input bar */}
           <div style={{
-            display: 'flex', alignItems: 'center', gap: 10,
+            display: 'flex', alignItems: 'center', gap: 10,marginBottom:'70px',
             padding: '12px 16px', borderTop: '1px solid var(--border)',
             background: 'var(--card-bg)', flexShrink: 0,
           }}>
