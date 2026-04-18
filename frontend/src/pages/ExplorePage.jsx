@@ -49,7 +49,7 @@ export default function ExplorePage() {
     Object.values(searchResults).some((v) => Array.isArray(v) && v.length > 0);
 
   return (
-    <div style={{ maxWidth: 680, margin: '0 auto', padding: '16px 0' }} className="animate-fade-in">
+    <div style={{ maxWidth: 680, margin: '0 auto', padding: '126px 0' }} className="animate-fade-in">
 
       {/* Search bar */}
       <div style={{ position: 'relative', margin: '0 0 14px', padding: '0 16px' }}>
