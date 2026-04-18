@@ -95,7 +95,7 @@ export default function AuthLayout() {
               background: 'linear-gradient(135deg, var(--brand) 0%, #8b5cf6 100%)',
               display: 'flex', alignItems: 'center', justifyContent: 'center',
             }}>
-              <span style={{ color: '#fff', fontWeight: 900, fontSize: 18 }}>T</span>
+              <span style={{ color: '#fff', fontWeight: 900, fontSize: 18 }}>Ꞇ∂</span>
             </div>
             <span style={{ fontWeight: 800, fontSize: 18, color: 'var(--text-primary)' }}>TeamAGI</span>
           </div>
